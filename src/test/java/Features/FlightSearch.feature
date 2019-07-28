@@ -1,7 +1,7 @@
 Feature: User should be able to search the flight 
 
 @Test123
-Scenario Outline: Free CRM Login Test Scenario
+Scenario Outline: Search Flight Details and list
 
 Given user is on Emirates site
 When user enter "<Departure Airport>" and "<Arrival airport>"
